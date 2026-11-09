@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import Header from '../Others/Header.jsx'
-import CreateTask from '../others/CreateTask.jsx'
-import AllTask from '../others/AllTask.jsx'
+import CreateTask from "../Others/CreateTask.jsx";
+import AllTask from "../Others/AllTask.jsx";
 import ManageEmployees from '../Others/ManageEmployees.jsx'
 
 const AdminDashboard = (props) => {
